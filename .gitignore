@@ -1,0 +1,45 @@
+# Node dependencies
+node_modules/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.bak
+*.save
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+
+# Logs and outputs
+*.log
+output.mp3
+
+# Electron specific
+*.asar
+*.tsbuildinfo
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# System files
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Git repo mirrors (if accidentally cloned)
+NogEye.git/
+
+# Cache or test files
+.cache/
+coverage/
+.nyc_output/
