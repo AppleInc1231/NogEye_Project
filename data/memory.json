@@ -1,0 +1,73 @@
+{
+  "user_name": "מאור",
+  "assistant_name": "צ'אט",
+  "conversations": [
+    {
+      "role": "user",
+      "content": "תזכור שאני גר"
+    },
+    {
+      "role": "assistant",
+      "content": "זכרתי את זה."
+    },
+    {
+      "role": "user",
+      "content": "תזכור שאני גר בדא"
+    },
+    {
+      "role": "assistant",
+      "content": "זכרתי את זה."
+    },
+    {
+      "role": "user",
+      "content": "תזכור שאני גר בלוס אנג"
+    },
+    {
+      "role": "assistant",
+      "content": "זכרתי את זה."
+    },
+    {
+      "role": "user",
+      "content": "תזכור שיש לי כלב בשם לואי"
+    },
+    {
+      "role": "assistant",
+      "content": "זכרתי את זה."
+    },
+    {
+      "role": "user",
+      "content": "איך קוראים לכלב שלי"
+    },
+    {
+      "role": "assistant",
+      "content": "קראת לכלב שלך לואי."
+    },
+    {
+      "role": "user",
+      "content": "בוקר טוב"
+    },
+    {
+      "role": "assistant",
+      "content": "בוקר טוב! איך אפשר לעזור לך היום?"
+    },
+    {
+      "role": "user",
+      "content": "מה נשמע איתך"
+    },
+    {
+      "role": "assistant",
+      "content": "הכול מצוין, תודה על שלא שאלת! איך אני יכול לעזור לך הבוקר?"
+    }
+  ],
+  "facts": {
+    "2025-04-10 19:36:02.460067": "אני גר",
+    "2025-04-10 19:38:26.304542": "אני גר בדא",
+    "2025-04-10 19:38:38.376224": "אני גר בלוס אנג",
+    "2025-04-10 19:41:58.475311": "יש לי כלב בשם לואי"
+  },
+  "reminders": [],
+  "preferences": {
+    "language": "hebrew",
+    "wake_word": "צ'אט"
+  }
+}

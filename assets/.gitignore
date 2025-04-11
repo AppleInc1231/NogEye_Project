@@ -1,0 +1,10 @@
+# קבצים שלא רוצים שיעלו ל-Git
+output.mp3
+.env
+__pycache__/
+node_modules/
+chat-ui/live.json
+backend/chat-ui/live.json
+frontend/live.json
+.DS_Store
+*.bak

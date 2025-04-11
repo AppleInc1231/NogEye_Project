@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "total-fiber-455704-h3",
+  "private_key_id": "dea90bf34e8249abb49328cd3786c0e088c32cb9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDU2a8qh4uSojNm\nWfB9zgYnI0NNtqIK+fN5wVpbhha+4R9EzwAy8S9HGSFtC7e11wSQIm+aUksk1OMO\n+Rn39n+yO8Mk+LMVfeg8ktcnHcSndG6DH8TULfz2eM9T7BY8u60buxp/US+0lHZf\nMO7AUkyZg2tAzWagMz7k6qdI7B8NDRBri83RQtWjSSPO0YY1Qt12Abf3pgdcfyID\nbUc0K7PPfBx3f5wRrIj+5WH/+flHOeL7+EK42J+FD5RlJ3VjjOLNyz8jWMMtxCQv\ndEJtClXjqBOysJKY8jZJ848GP+f4Ue7RA14UtMrhmORX55UtebZoesEntyLEudkL\nTPbMEn55AgMBAAECggEANB+uzrpsypbgAXOK+jPmu9Td2X0dB5UYM7vO1dTrYwkc\nMCyE/vSjQET+M4cIEQa7vlRAgkkez8E2bWdBHcEGmm4aJsakjGHN6m+HMrQOgXd4\nzLGN8OvmI7GIDCQnee33wW+7WGxYQ1+L8Vm5Te2ZhopxTGhAdoC2KTbximEQZZBX\n7Gl3Buxte/IZcxyQpK8BRlE1Wyt0bt661MUmttgd673+Spb7+D+JfihzZwC5eHcb\nW+B1Uyvl8j7hBxV/YLcMsWQCLmh5AE4DniOr4yrRAsNmn4n/E/pewI1WOvOUaj0x\n3HtNubiikizK2W+TFF9CVD4eUzIJ2rIQ38iNiVFUUQKBgQD3aEABbO/FIIGpfCtO\n86cPcSyo7HiP6SBi3KjkbDGskRtK8ShLHLT6jYLqhk32G8pqn8M6H9ICsi97d5TE\nv0aPMBk3JCqbpHaoDe4RhlpokbaNKpgDE+2iwsCy009rRDFAMKZUY2pjne0P9nTU\nK1EjWUgEPrq9I1Etv/22fQA4DQKBgQDcPi55Ivs3CvoNeAXIeLm2vbLI8sJoqKTz\n1IHgty7MZvF+rl/C7JWnAzYAfQkcl8AfObUukUEKLrmSLF1DIjfaOIGQAW9XGzEP\nqSLg9N9c57PFvzqrmBKFmqAxW4nBgPqCaj0Rhi9UYZb7J32wLko4Xnv16hzXQTmG\nPfe0yUZ5HQKBgEHfDtOSVpBspDkk5z8BHmS9JD/hngPq9QV9bLZMnDku9U5RwQGm\npgTjsoyQr6csJQuYd9k86aRwHrZH02NC7h1nl/8XcQS5mCIMe2tNEzsuOKWDRq/j\nGW0xXy79lfKgWGCX02E6ivP0805Btz9aPSMlPUhsDzoWciG1MW7p/yntAoGBAKfO\nwP4PRzVjKa7FejKKuYWg9+3f+Xxgsn4Ntn+PUxrufKY3GkOcm1HLQoQQwLaGcR3Z\njFDU36dwfnf/UXfrRH8CesVMMpc94p26ExcvvFg/Olw7HerMTaB6df/lbQqAyV5A\nsBMAGGPEj5MBPeTVADv+0ZhHLn5b9gZwhKG8kfOJAoGAXHx2QItuN8Ll4gpaF9Ns\ngKuvf9R+zDkIUNg8Q6S8rzJc/bwp4I4lqmYrnfH6igI+ET80qxzMYUJUI/QidUcw\nJb5bH5lMTdNaKRoSyCZbmi03VbyUDFnh/ikaiLjXPeI+aT3EOT5zhkBB3wH6A2jG\nORGuGNLbYxNQMsM3Zkh+k2s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chat-voice-service@total-fiber-455704-h3.iam.gserviceaccount.com",
+  "client_id": "117083396246265823825",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chat-voice-service%40total-fiber-455704-h3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

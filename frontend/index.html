@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+  <meta charset="UTF-8" />
+  <title>צ'אט – העוזר הקולי</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="chat-box">
+    <div class="glass-card">
+      <div id="bubble">
+        <div class="wave wave1"></div>
+        <div class="wave wave2"></div>
+        <div class="wave wave3"></div>
+      </div>
+      <div id="text-section">
+        <div><strong>אתה:</strong> <span id="user-text"></span></div>
+        <div><strong>צ'אט:</strong> <span id="chat-text"></span></div>
+        <div><strong>🌤️ מזג האוויר כעת:</strong> <span id="temperature">טוען...</span>°C</div>
+      </div>
+    </div>
+    <div id="footer">
+      <span>מצב מערכת:</span> <span id="status" class="highlight">מוכנה</span>
+    </div>
+  </div>
+  <script src="renderer.js"></script>
+</body>
+</html>
+

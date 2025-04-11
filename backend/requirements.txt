@@ -1,0 +1,5 @@
+openai
+speechrecognition
+python-dotenv
+google-cloud-texttospeech
+simpleaudio
